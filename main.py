@@ -1,15 +1,5 @@
 print("Hello World")
-
-
-
-
-
-
-
-
-
-
-
+print("My name is Valerii Lukomskyi")
 
 # This is a sample Python script.
 
